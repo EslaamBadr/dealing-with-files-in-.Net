@@ -1,0 +1,30 @@
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\bin\Debug\net7.0\Bussieness.deps.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\bin\Debug\net7.0\Bussieness.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\bin\Debug\net7.0\Bussieness.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\bin\Debug\net7.0\DataAccess.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\obj\Debug\net7.0\Bussieness.csproj.AssemblyReference.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\obj\Debug\net7.0\Bussieness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\obj\Debug\net7.0\Bussieness.AssemblyInfoInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\obj\Debug\net7.0\Bussieness.AssemblyInfo.cs
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\obj\Debug\net7.0\Bussieness.csproj.CoreCompileInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\obj\Debug\net7.0\Bussieness.csproj.CopyComplete
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\obj\Debug\net7.0\Bussieness.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\obj\Debug\net7.0\refint\Bussieness.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\obj\Debug\net7.0\Bussieness.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\.Net ITI\ASP.Net Core APIs\Day 3\Receits\Bussieness\obj\Debug\net7.0\ref\Bussieness.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\bin\Debug\net7.0\Bussieness.deps.json
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\bin\Debug\net7.0\Bussieness.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\bin\Debug\net7.0\Bussieness.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\bin\Debug\net7.0\DataAccess.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\obj\Debug\net7.0\Bussieness.csproj.AssemblyReference.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\obj\Debug\net7.0\Bussieness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\obj\Debug\net7.0\Bussieness.AssemblyInfoInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\obj\Debug\net7.0\Bussieness.AssemblyInfo.cs
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\obj\Debug\net7.0\Bussieness.csproj.CoreCompileInputs.cache
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\obj\Debug\net7.0\Bussieness.csproj.CopyComplete
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\obj\Debug\net7.0\Bussieness.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\obj\Debug\net7.0\refint\Bussieness.dll
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\obj\Debug\net7.0\Bussieness.pdb
+C:\Users\EL SAKR TECHNOLOGY\Desktop\Task\Back\Receits\Bussieness\obj\Debug\net7.0\ref\Bussieness.dll
